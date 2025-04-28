@@ -128,23 +128,3 @@ We used the dataset [Ecommerce Churn](https://www.kaggle.com/datasets/saiparthas
 | `dashboard.py`        | Flask app that serves the dashboard.        |
 | `import_to_hbase.sh`  | Automates HBase data import processes.       |
 
-## 🐳 Docker Containers
-
-| **Container Name**      | **Description**                       | **Docker Hub Link**                                                     |
-|--------------------------|---------------------------------------|-------------------------------------------------------------------------|
-| **spark-worker**         | Spark worker node.                   | [View on DockerHub](https://hub.docker.com/repository/docker/msiddique2003/spark-worker)         |
-| **spark-master**         | Spark master node.                   | [View on DockerHub](https://hub.docker.com/repository/docker/msiddique2003/spark-master)         |
-| **hbase-master**         | HBase master node.                   | [View on DockerHub](https://hub.docker.com/repository/docker/msiddique2003/hbase-master)         |
-| **hbase-regionserver**   | HBase region server.                 | [View on DockerHub](https://hub.docker.com/repository/docker/msiddique2003/hbase-regionserver)   |
-| **zookeeper**            | Manages distributed coordination.    | [View on DockerHub](https://hub.docker.com/repository/docker/msiddique2003/zookeeper)            |
-| **kafka**                | Handles real-time data streams.      | [View on DockerHub](https://hub.docker.com/repository/docker/msiddique2003/kafka)                |
-
-## 👥 Contributors
-
-| **Contributor Name**          | **Role**                       |
-|--------------------------------|---------------------------------|
-| **Muhammad Siddique Khatri**  | Data Engineer & BI Expert                                  |
-| **Muhammad Sarim ul Haque**   | Data Engineer & System Architect                           |
-| **Raine Ramchand**            | Data Engineer & Web Application Developer                  |
-
-
